@@ -1,2 +1,2 @@
 # spice
-spice simulation with matlab/C
+spice simulation with matlab
